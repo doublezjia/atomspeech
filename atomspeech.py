@@ -18,9 +18,9 @@ import requests,sys,time,pygame,itchat,os
 #连接百度语音api
 # 定义常量
 # APP_ID API_KEY SECRET_KEY 通过注册百度语音api获得
-APP_ID = '6080147'
-API_KEY = 'jFCtbpgdjK4AgGe8nqwspFwT7XURxl6Q'
-SECRET_KEY = 'DdVleovbIiwpodUOtYReZRgd1fqeeTrZ'
+APP_ID = '60801'
+API_KEY = 'jFCtbpgdjK4AgGe8nqwspFwT7X6Q'
+SECRET_KEY = 'DdVleovbIiw1fqeeTrZ'
 # 初始化AipSpeech对象
 aipSpeech = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 
